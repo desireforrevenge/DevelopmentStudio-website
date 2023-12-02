@@ -4,5 +4,5 @@
 # 👥 Developers
 | **Backend**      | **Frontend**            |
 |:-------------:|:------------------:|
-| dfr   | Jayfeather    |
+| DFR   | Jayfeather    |
 
