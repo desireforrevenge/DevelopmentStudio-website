@@ -1,2 +1,8 @@
-# DevelopmentStudio-website
-A learning project created to improve one's development skills.
+# 🎓 DevStudio WebSite
+### Learning project created to improve one's development skills
+
+# 👥 Developers
+| **Backend**      | **Frontend**            |
+|:-------------:|:------------------:|
+| dfr   | Jayfeather    |
+
